@@ -6,3 +6,4 @@ Examples of technology used in dermatology include telemedicine, spectroscopy, f
 Telemedicine allows for remote consultations, spectroscopy helps with non-invasive examination of skin, fluorescence imaging helps in creating images and laser technology helps in treating vascular lesions. 
 However, technology in dermatology faces challenges such as cost and availability, training and education, ethical considerations and the potential for misuse or overuse. 
 The report concludes with a summary of the impact of technology on dermatology practices and recommendations for its future direction.
+https://ekanem-obo.github.io/the-impact-of-technology-on-dermatology-practises/
