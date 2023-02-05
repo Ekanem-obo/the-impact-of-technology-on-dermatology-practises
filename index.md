@@ -1,5 +1,5 @@
-THE IMPACT OF TECHNOLOGY ON DERMATOLOGY PRACTICES
-=================================================
+THE IMPACT OF TECHNOLOGY ON DERMATOLOGY PRACTICE
+================================================
 
 
 Introduction
@@ -25,7 +25,7 @@ Technology in use in dermatology practices
 
 ![](https://www.nsi1.com/hs-fs/hubfs/RM_07.8.16_ff.telemed-630x420.jpg?height=630&name=RM_07.8.16_ff.telemed-630x420.jpg)
 
-_Telemedicine_ [_https://www.nsi1.com/blog/no-more-waiting-room-magazine_](https://www.nsi1.com/blog/no-more-waiting-room-magazine)
+_Telemedicine:_ [_https://www.nsi1.com/blog/no-more-waiting-room-magazine_](https://www.nsi1.com/blog/no-more-waiting-room-magazine)
 
 *   **Spectroscopy:** The human skin is an easily accessible organ that can be examined using non-invasive techniques. Skin's optical properties are influenced by scattering, reflection, and absorption. The standardization of spectroscopic measurement of human skin is crucial to reducing error sources in the pharmacology and toxicology of applied medication, as well as when evaluating erythema and pigmentation, microcirculation, and other skin characteristics.
 
@@ -33,7 +33,7 @@ _Telemedicine_ [_https://www.nsi1.com/blog/no-more-waiting-room-magazine_](https
 
 ![](https://www.thelancet.com/cms/attachment/e722b61e-d933-42d1-ac96-4db8d0b37f04/gr1_lrg.jpg)
 
-_Fluorescence imaging_ [https://doi.org/10.1016/S1470-2045(19)30317-1](https://doi.org/10.1016/S1470-2045(19)30317-1)
+_Fluorescence imaging:_ [https://doi.org/10.1016/S1470-2045(19)30317-1](https://doi.org/10.1016/S1470-2045(19)30317-1)
 
 *   **Skin-care laser technology:** A variety of vascular lesions, including facial telangiectasia haemangiomas, kaposi, and others, have been treated with laser. Telangiectases are localized collections of dilated blood capillaries. They occur in the skin, the lining of the mouth, the respiratory tract, and the urinary tract. Dermatologists are less likely to look at glass slides under a microscope now that laser technology has advanced and been integrated into the field of dermoscopy. Lasers are designed to record photos or videos while studying the complicated surface of the skin. Dermoscopy uses confocal laser optical imaging techniques to allow dermatologists to see beneath the skin.
 
