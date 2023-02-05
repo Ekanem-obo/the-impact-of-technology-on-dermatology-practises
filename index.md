@@ -1,5 +1,5 @@
-THE IMPACT OF TECHNOLOGY ON DERMATOLOGY PRACTICE
-================================================
+THE IMPACT OF TECHNOLOGY ON DERMATOLOGY PRACTISES
+=================================================
 
 
 Introduction
